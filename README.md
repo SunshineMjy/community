@@ -1,0 +1,3 @@
+# community
+Majiang community
+hello!
